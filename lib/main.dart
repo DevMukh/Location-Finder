@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+//use geo locator package
 
 class GeoLocationCordinated extends StatefulWidget {
   const GeoLocationCordinated({super.key});
